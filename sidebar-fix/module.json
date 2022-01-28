@@ -1,8 +1,0 @@
-{
-  "name": "sidebar-fix",
-  "title": "Sidebar Fix",
-  "description": "Fixes shifting sidebar when music is playing",
-  "author": "t2pellet",
-  "version": "1.0.0",
-  "minimumCoreVersion": "0.9.0"
-}
