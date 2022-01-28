@@ -4,7 +4,9 @@
   "description": "Fixes shifting sidebar when music is playing",
   "author": "t2pellet",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.9.0",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": ["./fix.js"],
   "url": "https://github.com/t2pellet/fvtt-sidebar",
   "manifest": "https://raw.githubusercontent.com/t2pellet/fvtt-sidebar/master/module.json",
   "download": "https://github.com/t2pellet/fvtt-sidebar/archive/master.zip"
